@@ -1,4 +1,4 @@
-# Hello! 👩🏽‍💻❤️ I’m Marzana
+# Hello There! I’m Marzana👩🏽‍💻❤️
 
 **Senior at George Mason University | B.S. in Information Technology | Cybersecurity Enthusiast | Machine Learning & Data Science**
 
