@@ -1,63 +1,56 @@
-# Hey there, I'm Marzana Afroz 🔒  
-**IT Student | Cybersecurity Enthusiast**  
+# Hello! 👩🏽‍💻❤️ I’m Marzana
 
-![Profile views](https://gpvc.arturio.dev/yourusername)
+**Senior at George Mason University | B.S. in Information Technology | Cybersecurity Enthusiast | Machine Learning & Data Science**
 
-I am passionate about solving real-world problems through cybersecurity and technology. I am currently studying Information Technology with a focus on cybersecurity, where I am learning to secure IT systems and networks. With hands-on experience in programming, penetration testing, and ethical hacking, I am always eager to explore new technologies and strengthen my skills.
-
----
-
-## 🛡️ Interests:
-- 🔐 Actively working on cybersecurity projects, focusing on threat detection and prevention
-- 💻 Hands-on experience with tools like Wireshark, Nmap, and Metasploit for network security analysis
-- 📖 Learning more about cloud security and ethical hacking techniques
-- 🎯 Seeking internships and opportunities in the cybersecurity field
-- 🎓 Always exploring new ways to secure IT systems and networks
+I’m graduating in May 2025 with a B.S. in Information Technology, specializing in Cybersecurity. My passion for technology, problem-solving, and leadership has shaped my academic and professional journey, and I thrive in fast-paced, dynamic environments. Through hands-on experience in cutting-edge projects, I have developed a strong foundation in cybersecurity, machine learning, and data science.
 
 ---
 
-## 💻 Skills & Tools:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-004579?style=for-the-badge&logo=metasploit&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 👩🏽‍💻 A Little More About Me:
+- **President of the Patriot Period Project**: Leading initiatives that tackle period poverty using technology-driven solutions, empowering women and communities.
+- **Ambassador for the College of Engineering and Computing**: Promoting STEM fields and participating in diversity and inclusion initiatives.
+- **Leadership in Cultural Organizations**: Experience in project management, organizational, and leadership roles.
+- **Internships**: Worked at USLI, Cooledtured, and CEC Communications Office to apply technical knowledge while learning about marketing, SEO, and communications strategy.
+- **Externships**: Gained experience at PwC, HP, Beats, Snap Inc., Expedia Group, and Webacy, integrating emerging technologies, particularly in cybersecurity and data science.
+- **AI Studio Project with KPMG**: Developing a machine learning model to predict future donations for nonprofits, applying advanced AI and data science techniques to real-world problems.
+- **Cornell Tech & Break Through Tech**: Completed advanced coursework in Machine Learning and AI to address cybersecurity challenges.
+- **CodePath Technical Interview & Cybersecurity Course**: Enhanced programming skills in Python, HTML, and penetration testing.
 
 ---
 
-## 📈 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+### 💻 Skills, Languages, & Certifications:
+
+**Skills**:  
+GitHub, Tableau, Dreamweaver, Photoshop, Animate, InDesign, Illustrator, Canva, Excel
+
+**Programming Languages**:  
+Python, HTML, CSS, SQL, Unix
 
 ---
 
-## 📫 How to Reach Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](http://yourportfolio.com)
+### 📈 GitHub Stats:
+![Marzana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marzanaafroz&show_icons=true&theme=radical)
 
 ---
 
-## ⚡ Fun Fact:
-In my free time, I love experimenting with reverse engineering and malware analysis!
+### 📫 How to Reach Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marzana-afroz/))  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marzanaafroz123@gmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mafroz@gmu.edu) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)]((https://github.com/marzanaafroz))
 
 ---
 
-## 🏆 Achievements:
-- ✅ Completed multiple projects focusing on penetration testing and network security
-- ✅ Gained hands-on experience with ethical hacking techniques
-- ✅ Contributed to open-source projects related to cybersecurity
+### ⚡ Fun Fact:
+When I’m not immersed in tech, you’ll find me advocating for women in STEM, exploring ways to make a positive social impact, or reading, editing videos, and working on creative projects.
 
 ---
 
-## 🔥 Currently Learning:
-- Cloud security techniques
-- Advanced penetration testing
-- Blockchain technology for secure digital transactions
+### 🔥 Currently Learning:
+- Cloud Security
+- Advanced Machine Learning Techniques
+- Blockchain Technology for Secure Transactions
 
 ---
 
-Thank you for stopping by! I'm always open to connecting with like-minded individuals. Let's collaborate or chat about cybersecurity, IT, or technology!
-
-
+Thank you for visiting my profile! Let’s connect and collaborate on cybersecurity, data science, and leadership roles in innovative organizations. 🤝
