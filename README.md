@@ -4,7 +4,9 @@
 
 I’m graduating in May 2025 with a B.S. in Information Technology, specializing in Cybersecurity. My passion for technology, problem-solving, and leadership has shaped my academic and professional journey, and I thrive in fast-paced, dynamic environments. Through hands-on experience in cutting-edge projects, I have developed a strong foundation in cybersecurity, machine learning, and data science.
 
+
 ---
+
 
 ### 👩🏽‍💻 A Little More About Me:
 - **President of the Patriot Period Project**: Leading initiatives that tackle period poverty using technology-driven solutions, empowering women and communities.
@@ -16,6 +18,15 @@ I’m graduating in May 2025 with a B.S. in Information Technology, specializing
 - **Cornell Tech & Break Through Tech**: Completed advanced coursework in Machine Learning and AI to address cybersecurity challenges.
 - **CodePath Technical Interview & Cybersecurity Course**: Enhanced programming skills in Python, HTML, and penetration testing.
 
+---
+
+
+## 🛡️ Interests:
+- 🔐 Actively working on cybersecurity projects, focusing on threat detection and prevention
+- 💻 Hands-on experience with tools like Wireshark, Nmap, and Metasploit for network security analysis
+- 📖 Learning more about cloud security and ethical hacking techniques
+- 🎯 Seeking internships and opportunities in the cybersecurity field
+- 🎓 Always exploring new ways to secure IT systems and networks
 ---
 
 ### 💻 Skills, Languages, & Certifications:
@@ -37,7 +48,7 @@ Python, HTML, CSS, SQL, Unix
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marzana-afroz/))  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marzanaafroz123@gmail.com)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mafroz@gmu.edu) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)]((https://github.com/marzanaafroz))
+
 
 ---
 
