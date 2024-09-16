@@ -68,4 +68,4 @@ forecasting future donation patterns and improving donor targeting strategies.
 
 ---
 
-Thank you for visiting my profile! Let’s connect and collaborate on cybersecurity, data science, and leadership roles in innovative organizations 🤝
+<h4 align="center"> Thank you for visiting my profile! Let’s connect and collaborate on cybersecurity, data science, and leadership roles in innovative organizations 🤝</h4>
