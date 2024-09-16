@@ -37,9 +37,7 @@ forecasting future donation patterns and improving donor targeting strategies.
 
 
 ### 📫 How to Reach Me:
-<h3>Resume📄:</h3><h4>[Checkout my resume here ]</h4>
-
-(https://drive.google.com/file/d/1oY4n6uKVAwUwUxt4C9hAkr0_LV8IJ_zd/view?usp=sharing)
+<h3>Resume📄:</h3><h4>[(https://drive.google.com/file/d/1oY4n6uKVAwUwUxt4C9hAkr0_LV8IJ_zd/view?usp=sharing)]
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marzana-afroz/) 
 
