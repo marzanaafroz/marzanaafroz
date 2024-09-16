@@ -1,5 +1,7 @@
 <h1 align="center"> Hello There! I’m Marzana!🦋🕊️</h1>
 
+> **“I think, therefore I am.” – René Descartes**
+> 
 <h2 align="center"> B.S. in Information Technology at George Mason University</h2>
 
 I'm a first-generation college student graduating in May 2025 with a B.S. in Information Technology, specializing in Cybersecurity. My passion for technology, problem-solving, and leadership has shaped my academic and professional journey, and I thrive in fast-paced, dynamic environments. Through hands-on experience in cutting-edge projects, I have developed a strong foundation in cybersecurity, machine learning, and data science⚙️
@@ -23,20 +25,20 @@ Fashion Foward 👗| Menstrual Health Advocate🩸| Content Creator📹| Women i
 
 
 ---
-###Ongoing Projects⌨️:
-- <h2> KPMG Driving Donations: Predicting Monetary Contributions to Non-Profit Organizations </h2>
+<h2>Ongoing Projects⌨️:</h2>
+- <h4> KPMG Driving Donations: Predicting Monetary Contributions to Non-Profit Organizations </h4>
 Collaborated with KPMG’s AI Studio team to develop a predictive machine learning model for a nonprofit, focusing on 
 forecasting future donation patterns and improving donor targeting strategies.
-- <h2> CloveRun: </h2> Wrking on Large Language Models (LLMs) and researching use cases for broader national security, with a focus on providing insights to the Department of Defense
+- <h4> CloveRun: </h4> Wrking on Large Language Models (LLMs) and researching use cases for broader national security, with a focus on providing insights to the Department of Defense
 -----
 
 
 ### 📫 How to Reach Me:
-📄 **Resume**: [Resume Link](https://drive.google.com/file/d/1oY4n6uKVAwUwUxt4C9hAkr0_LV8J_zd/view?usp=sharing)
-Linkedin:[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marzana-afroz/) 
-GitHub: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marzanaafroz)
-Gmail:[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marzanaafroz123@gmail.com)
-Outlook: [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mafroz@gmu.edu) 
+- 📄 **Resume**: [Resume Link](https://drive.google.com/file/d/1oY4n6uKVAwUwUxt4C9hAkr0_LV8J_zd/view?usp=sharing)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marzana-afroz/) 
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marzanaafroz)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marzanaafroz123@gmail.com)
+- [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mafroz@gmu.edu) 
 
 ---
 
