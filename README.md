@@ -11,7 +11,7 @@ I'm a first-generation college student graduating in May 2025 with a B.S. in Inf
 
 
 ---
-Fashion Foward 👗| Menstrual Health Advocate🩸| Content Creator📹| Women in STEM 👩🏻‍💻
+Fashion Foward 👗| Menstrual Health Advocate🩸| Content Creator 📹| Women in STEM 👩🏻‍💻
 
 
 ---
