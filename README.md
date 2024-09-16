@@ -45,7 +45,7 @@ forecasting future donation patterns and improving donor targeting strategies.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:marzanaafroz123@gmail.com)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:mafroz@gmu.edu)
 
-
+Checkout my [![Resume](https://drive.google.com/file/d/1oY4n6uKVAwUwUxt4C9hAkr0_LV8IJ_zd/view?usp=sharing) 
 
 ---
 
