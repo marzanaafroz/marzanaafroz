@@ -39,7 +39,6 @@ forecasting future donation patterns and improving donor targeting strategies.
 
 ### 📫 **How to Reach Me**:
 
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1oY4n6uKVAwUwUxt4C9hAkr0_LV8IJ_zd/view?usp=sharing)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/marzanaafroz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marzana-afroz/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:marzanaafroz123@gmail.com)
