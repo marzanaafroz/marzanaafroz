@@ -50,19 +50,18 @@ forecasting future donation patterns and improving donor targeting strategies.
 
 ---
 
-## **Programming Languages**:
+# **Programming Languages**:
 
 <div> <img src="https://img.shields.io/badge/Python-blue.svg?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-red.svg?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-orange.svg?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-blue.svg?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-yellow.svg?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Unix-grey.svg?style=flat&logo=linux&logoColor=white"/> </div>
 
-## **Python Libraries**:
+# **Python Libraries**:
 
 <div> <img src="https://img.shields.io/badge/pandas-blue.svg?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-lightblue.svg?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-green.svg?style=flat&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-orange.svg?style=flat&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-yellow.svg?style=flat&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Statsmodels-red.svg?style=flat&logo=statsmodels&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-blue.svg?style=flat&logo=seaborn&logoColor=white"/> <img src="https://img.shields.io/badge/SciPy-lightgreen.svg?style=flat&logo=scipy&logoColor=white"/> </div>
 
-## **Tools**:
+# **Tools**:
 
 <div> <img src="https://img.shields.io/badge/GitHub-black.svg?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-blue.svg?style=flat&logo=tableau&logoColor=white"/> <img src="https://img.shields.io/badge/Dreamweaver-green.svg?style=flat&logo=dreamweaver&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-blue.svg?style=flat&logo=adobe-photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Animate-orange.svg?style=flat&logo=adobe-animate&logoColor=white"/> <img src="https://img.shields.io/badge/InDesign-purple.svg?style=flat&logo=adobe-indesign&logoColor=white"/> <img src="https://img.shields.io/badge/Illustrator-yellow.svg?style=flat&logo=adobe-illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Canva-lightblue.svg?style=flat&logo=canva&logoColor=white"/> <img src="https://img.shields.io/badge/Excel-green.svg?style=flat&logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-orange.svg?style=flat&logo=jupyter&logoColor=white"/> </div>
 
----
 
 
 ### 📈 GitHub Stats:
