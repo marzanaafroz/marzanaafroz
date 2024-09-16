@@ -22,7 +22,7 @@ Fashion Foward 👗| Menstrual Health Advocate🩸| Content Creator 📹| Women 
 - 👗 Fashion Forward: Passionate about combining fashion and creativity in tech
 - 💪 Strong advocate for Women's Empowerment and menstrual health through the Period Project
 - 📚 Avid reader and lifelong learner, constantly expanding my knowledge
-- 💃 Enjoys Bollywood dancing when I'm not immersed in tech
+- 💃 Enjoys Bollywood dancing when not immersed in tech
 - 🎥 Content Creator: Skilled in video editing and storytelling through media
 - 🎯 Actively seeking internships and opportunities in the cybersecurity field
 
