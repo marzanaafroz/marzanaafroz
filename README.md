@@ -28,7 +28,7 @@ Fashion Foward 👗| Menstrual Health Advocate🩸| Content Creator 📹| Women 
 
 
 ---
-<h2>⌨️Ongoing Projects:</h2>
+<h2>⌨️ Ongoing Projects:</h2>
 <h4> KPMG Driving Donations: Predicting Monetary Contributions to Non-Profit Organizations </h4>
 Collaborated with KPMG’s AI Studio team to develop a predictive machine learning model for a nonprofit, focusing on 
 forecasting future donation patterns and improving donor targeting strategies.
