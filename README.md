@@ -18,7 +18,7 @@ Fashion Foward 👗| Menstrual Health Advocate🩸| Content Creator 📹| Women 
 
 
 ## 🛡️A Little More About Me:
-- 🇧🇩 Proud Bangladeshi-South Asian who celebrates cultural diversity
+- 💚 Proud Bangladeshi-South Asian who celebrates cultural diversity
 - 👗 Fashion Forward: Passionate about combining fashion and creativity in tech
 - 💪 Strong advocate for Women's Empowerment and menstrual health through the Period Project
 - 📚 Avid reader and lifelong learner, constantly expanding my knowledge
