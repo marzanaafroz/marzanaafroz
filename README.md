@@ -7,7 +7,7 @@
 > **“I think, therefore I am.” – René Descartes**
 >
 > 
-I'm a first-generation college student graduating in May 2025 with a B.S. in Information Technology, specializing in Cybersecurity. My passion for technology, problem-solving, and leadership has shaped my academic and professional journey, and I thrive in fast-paced, dynamic environments. Through hands-on experience in cutting-edge projects, I have developed a strong foundation in cybersecurity, machine learning, and data science⚙️
+I'm a first-generation college student graduating in May 2025 with a B.S. in Information Technology, specializing in Cybersecurity. My passion for technology, problem-solving, and leadership has shaped my academic and professional journey, and I thrive in fast-paced, dynamic environments. Through hands-on experience in cutting-edge projects, I have developed a strong foundation in cybersecurity, machine learning, and data science💻⚙️
 
 
 ---
@@ -42,7 +42,6 @@ forecasting future donation patterns and improving donor targeting strategies.
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1oY4n6uKVAwUwUxt4C9hAkr0_LV8IJ_zd/view?usp=sharing)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/marzanaafroz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marzana-afroz/) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yourinstagramprofile)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:marzanaafroz123@gmail.com)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:mafroz@gmu.edu)
 
