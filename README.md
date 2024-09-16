@@ -1,4 +1,4 @@
-<h1 align="center"> Hello There! I’m Marzana!🦋🕊️</h1>
+<h1 align="center"> Hello There! I’m Marzana!🕊️</h1>
 
 
 > 
