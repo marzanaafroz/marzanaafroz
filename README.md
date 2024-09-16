@@ -33,19 +33,19 @@ Fashion Foward 👗| Menstrual Health Advocate🩸| Content Creator📹| Women i
 Collaborated with KPMG’s AI Studio team to develop a predictive machine learning model for a nonprofit, focusing on 
 forecasting future donation patterns and improving donor targeting strategies.
 <h4> CloveRun: </h4> Working on Large Language Models (LLMs) and researching use cases for broader national security, with a focus on providing insights to the Department of Defense
+
 -----
 
-
 ### 📫 How to Reach Me:
-<h3>Resume📄:</h3><h4>[(https://drive.google.com/file/d/1oY4n6uKVAwUwUxt4C9hAkr0_LV8IJ_zd/view?usp=sharing)]
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marzana-afroz/) 
+- 📄 **Resume**: [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1oY4n6uKVAwUwUxt4C9hAkr0_LV8IJ_zd/view?usp=sharing)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marzanaafroz)
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marzanaafroz)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marzana-afroz/) 
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourinstagramprofile)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marzanaafroz123@gmail.com)
+- [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mafroz@gmu.edu) 
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marzanaafroz123@gmail.com)
-
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mafroz@gmu.edu) 
 
 ---
 
