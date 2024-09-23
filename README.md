@@ -49,7 +49,15 @@ forecasting future donation patterns and improving donor targeting strategies.
 
 #### **Programming Languages**:
 
-<div> <img src="https://img.shields.io/badge/Python-blue.svg?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-red.svg?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-orange.svg?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-blue.svg?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-yellow.svg?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Unix-grey.svg?style=flat&logo=linux&logoColor=white"/> </div>
+<div>
+  <img src="https://img.shields.io/badge/Python-blue.svg?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-red.svg?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-orange.svg?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-blue.svg?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-yellow.svg?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow.svg?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Swift-orange.svg?style=flat&logo=swift&logoColor=white"/>
+</div>
 
 #### **Python Libraries**:
 
@@ -57,9 +65,21 @@ forecasting future donation patterns and improving donor targeting strategies.
 
 #### **Softwares**:
 
-<div> <img src="https://img.shields.io/badge/GitHub-black.svg?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-blue.svg?style=flat&logo=tableau&logoColor=white"/> <img src="https://img.shields.io/badge/Dreamweaver-green.svg?style=flat&logo=dreamweaver&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-blue.svg?style=flat&logo=adobe-photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Animate-orange.svg?style=flat&logo=adobe-animate&logoColor=white"/> <img src="https://img.shields.io/badge/InDesign-purple.svg?style=flat&logo=adobe-indesign&logoColor=white"/> <img src="https://img.shields.io/badge/Illustrator-yellow.svg?style=flat&logo=adobe-illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Canva-lightblue.svg?style=flat&logo=canva&logoColor=white"/> <img src="https://img.shields.io/badge/Excel-green.svg?style=flat&logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-orange.svg?style=flat&logo=jupyter&logoColor=white"/> </div>
-
-
+<div>
+  <img src="https://img.shields.io/badge/GitHub-black.svg?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-blue.svg?style=flat&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-orange.svg?style=flat&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-orange.svg?style=flat&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-blue.svg?style=flat&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-red.svg?style=flat&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/macOS-grey.svg?style=flat&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unix-black.svg?style=flat&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dreamweaver-green.svg?style=flat&logo=dreamweaver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-blue.svg?style=flat&logo=adobe-photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-lightblue.svg?style=flat&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-green.svg?style=flat&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-black.svg?style=flat&logo=notion&logoColor=white"/>
+</div>
 
 ### 📈 GitHub Stats:
 ![Marzana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marzanaafroz&show_icons=true&theme=radical)
