@@ -32,7 +32,7 @@ Fashion Foward 👗| Menstrual Health Advocate🩸| Content Creator 📹| Women 
 <h4> KPMG Driving Donations: Predicting Monetary Contributions to Non-Profit Organizations </h4>
 Collaborated with KPMG’s AI Studio team to develop a predictive machine learning model for a nonprofit, focusing on 
 forecasting future donation patterns and improving donor targeting strategies.
-<h4> CloveRun: </h4> Working on Large Language Models (LLMs) and researching use cases for broader national security, with a focus on providing insights to the Department of Defense
+<h4> Colvin Run Network: </h4> Working on Large Language Models (LLMs) and researching use cases for broader national security, with a focus on providing insights to the Department of Defense
 
 -----
 
