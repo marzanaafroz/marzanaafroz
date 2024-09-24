@@ -33,6 +33,9 @@ Fashion Foward 👗| Menstrual Health Advocate🩸| Content Creator 📹| Women 
 Collaborated with KPMG’s AI Studio team to develop a predictive machine learning model for a nonprofit, focusing on 
 forecasting future donation patterns and improving donor targeting strategies.
 
+<h4> PwC: Strategic Fundraising Optimization for Marine Conservation Institute </h4>
+Collaborated on a strategic analysis for the Marine Conservation Institute, focusing on optimizing fundraising strategies and addressing key organizational challenges. Leveraged strategic consulting frameworks to improve donor engagement and secured funding from three new major donors. Conducted comprehensive data analysis on stakeholder engagement and impact measurement using advanced analytics tools, resulting in over 15 actionable insights. Delivered recommendations for enhancing long-term development plans by refining donor outreach, aligning organizational goals with measurable impact, and ensuring sustainable growth.
+  
 <h4>Beats by Dr. Dre : Consumer Insights on Wireless Speaker Preferences </h4> 
 Conducted an in-depth study analyzing the preferences and behaviors of college students regarding wireless speakers. Focused on key factors such as sound quality, battery life, portability, and design. Developed actionable insights to help Beats by Dr. Dre tailor their product development and marketing strategies to meet the needs of young, tech-savvy consumers. Presented findings through data-driven visualizations and a comprehensive business report.
 
