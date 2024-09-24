@@ -30,19 +30,16 @@ Fashion Foward 👗| Menstrual Health Advocate🩸| Content Creator 📹| Women 
 ---
 <h2>⌨️ Projects:</h2>
 <h4> KPMG Driving Donations: Predicting Monetary Contributions to Non-Profit Organizations </h4>
-Collaborated with KPMG’s AI Studio team to develop a predictive machine learning model for a nonprofit, focusing on 
-forecasting future donation patterns and improving donor targeting strategies.
+Collaborated with KPMG to develop a predictive machine learning model aimed at enhancing the accuracy of forecasting donation patterns for nonprofit organizations. Leveraged Python libraries such as pandas and scikit-learn for data preprocessing, feature engineering, and model training. Achieved an 85% accuracy rate in predicting donor behavior using logistic regression and random forest algorithms. 
 
 <h4> PwC: Strategic Fundraising Optimization for Marine Conservation Institute </h4>
 Collaborated on a strategic analysis for the Marine Conservation Institute, focusing on optimizing fundraising strategies and addressing key organizational challenges. Leveraged strategic consulting frameworks to improve donor engagement and secured funding from three new major donors. Conducted comprehensive data analysis on stakeholder engagement and impact measurement using advanced analytics tools, resulting in over 15 actionable insights. Delivered recommendations for enhancing long-term development plans by refining donor outreach, aligning organizational goals with measurable impact, and ensuring sustainable growth.
   
-<h4>Beats by Dr. Dre : Consumer Insights on Wireless Speaker Preferences </h4> 
+<h4>Beats by Dr. Dre: Consumer Insights on Wireless Speaker Preferences </h4> 
 Conducted an in-depth study analyzing the preferences and behaviors of college students regarding wireless speakers. Focused on key factors such as sound quality, battery life, portability, and design. Developed actionable insights to help Beats by Dr. Dre tailor their product development and marketing strategies to meet the needs of young, tech-savvy consumers. Presented findings through data-driven visualizations and a comprehensive business report.
 
 <h4> HP Tech Venture : Digital Payment Solutions & Strategic Investment Summary for Stripe </h4>
 Collaborated on a strategic investment summary for Stripe, with a focus on comprehensive market analysis, growth potential, and competitive positioning within the global fintech space. Conducted due diligence on key aspects such as market expansion strategies, regulatory challenges in international markets, and cybersecurity measures to assess risks and opportunities. Analyzed financial data, industry trends, and Stripe’s technological innovations to provide actionable insights. Delivered recommendations for long-term growth, investment opportunities, and market differentiation based on a thorough evaluation of Stripe’s scalability and global impact.
-
-<h4> Colvin Run Network: </h4> Working on Large Language Models (LLMs) and researching use cases for broader national security, with a focus on providing insights to the Department of Defense
 
 -----
 
