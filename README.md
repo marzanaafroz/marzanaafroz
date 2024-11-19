@@ -7,7 +7,7 @@
 > **“I think, therefore I am.” – René Descartes**
 >
 > 
-I'm a first-generation college student graduating in May 2025 with a B.S. in Information Technology, specializing in Cybersecurity. My passion for technology, problem-solving, and leadership has shaped my academic and professional journey, and I thrive in fast-paced, dynamic environments. Through hands-on experience in cutting-edge projects, I have developed a strong foundation in cybersecurity, machine learning, and data science💻⚙️
+I'm a first-generation college student graduating in May 2026 with a B.S. in Information Technology, specializing in Cybersecurity. My passion for technology, problem-solving, and leadership has shaped my academic and professional journey, and I thrive in fast-paced, dynamic environments. Through hands-on experience in cutting-edge projects, I have developed a strong foundation in cybersecurity, machine learning, and data science💻⚙️
 
 
 ---
